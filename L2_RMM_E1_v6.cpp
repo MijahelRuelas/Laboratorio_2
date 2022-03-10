@@ -1,6 +1,6 @@
 /*   ----------------------------------------------------------------
    |   Nombre:   Univ. Ruelas Machicado Mijahel Alexander            |
-   |   Materia:  Laboratotio de programacion ( ETN307 )              |
+   |   Materia:  Laboratorio de programacion ( ETN307 )              |
     -----------------------------------------------------------------
       Crear un programa capapaz de resolver problemas trigonometricos
       con 3 datos que el usuario ingrese. Luego calcular el Area,
